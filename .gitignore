@@ -3,3 +3,7 @@ files/*
 !files/100.edf
 !files/201.edf
 playground.py
+venv
+wfdb*
+__pycache__
+*.edf
